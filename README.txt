@@ -4,7 +4,7 @@
 # Author : Jieying Chen
 # Date   : 12-08-2019
 # Email  : jieying.chenchen@gmail.com
-# Copyright: TheUniversity of Manchester, IHTSDO
+# Copyright: The University of Manchester, IHTSDO
 # The author is funded by an EPSRC funded IAA Project with IHTSDO.
 # People involved: Ghadah Alghamdi, Renate Schmidt and Yongsheng Gao.
 ##############################################################################
