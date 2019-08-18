@@ -7,7 +7,7 @@
 ##############################################################################
 
 
-For compute uniform interpolates of ONTOLOGY w.r.t. signature, one can run the script by using the command,
+For computing uniform interpolates of ONTOLOGY w.r.t. signature, one can run the script by using the command,
 
 	./workflow.sh ${ONTOLOGYFILE} ${SIGNATUREFILE} ${DEPTH}
 
