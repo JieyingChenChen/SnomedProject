@@ -16,9 +16,9 @@ Input:  SNOMED CT, Signature
 
 Procedures:
 - Signature extension (Author: Jieying Chen)
-- Extract star module (OWLAPI)
-- Forgetting: FAME  (Author: Yizheng Zhao, jar file was created by Ghadah Alghamdi)
-              or LETHE (Author: Patrick Koopmann, jar file was created by Ghadah Alghamdi)
+- Extract star module (OWLAPI, the jar file was created by Jieying Chen)
+- Forgetting: FAME  (Author: Yizheng Zhao, the jar file was created by Ghadah Alghamdi)
+              or LETHE (Author: Patrick Koopmann, the jar file was created by Ghadah Alghamdi)
 - Denormalization (Author: Ghadah Alghamdi)
 - Add annotation  (Author: Ghadah Alghamdi)
 
