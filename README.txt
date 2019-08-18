@@ -29,7 +29,7 @@ For computing uniform interpolates of ONTOLOGY w.r.t. signature, one can run the
 
 For example, ./workflow.sh snomedct_intl_201901.owl  sig.owl  1
 
-Depth is the parameter in the algorithm that in the picture of “alg-sig-ext.png”.
+Depth is the parameter in the algorithm that is used in the algorithm of signature extension (cf. “alg-sig-ext.png”).
 
 
 
